@@ -5,7 +5,7 @@ import commonjs from "@rollup/plugin-commonjs";
 const options = {
     input: "./index.js",
     output: {
-        file: "./out/index.js"
+        file: "./out/SEmbeds/index.js"
         //globals: path => (console.log("Path", path), `await require(${JSON.stringify(path)})`)
     },
     plugins: [

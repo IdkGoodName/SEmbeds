@@ -1,3 +1,6 @@
 node_modules
 out
+SEmbeds
 package-lock.json
+*.tar.gz
+*.zip
