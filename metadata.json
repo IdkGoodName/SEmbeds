@@ -1,0 +1,11 @@
+{
+    "id": "sembeds",
+    "name": "SEmbeds",
+    "files": "index.js",
+    "requiredPermissions": 3,
+
+    "images": ["./Screenshot-0.png", "./Screenshot-1.png", "./Screenshot-2.png"],
+    "banner": "./Screenshot-0.png",
+    "repoUrl": "https://github.com/IdkGoodName/SEmbeds",
+    "author": "R40Mp0Wd"
+}
