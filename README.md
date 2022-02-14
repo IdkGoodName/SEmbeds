@@ -1,6 +1,8 @@
 # SEmbeds
 
-ReGuilded addon for creating and sending custom embeds! Works on messages, forum threads, forum replies, documents, anywhere.
+ReGuilded addon for creating and sending custom embeds! Works on messages, forum threads, forum replies, documents and anywhere else.
+
+Use it for flows or cool-looking information.
 
 > **NOTE:** ReGuilded 0.0.4 or above is required.
 
@@ -15,8 +17,8 @@ ReGuilded addon for creating and sending custom embeds! Works on messages, forum
 
 ## How to Use
 
-- Chat channels: When clicking on message input `+`, `Embed` menu item should pop up somewhere below `Form` and `Poll`. It should have 3 bar icon
-- Forum threads, replies, documents, comments, etc.: It should appear in the editor's toolbar next to form's icon (square with a checkmark). It should have 3 bar icon
+- Chat channels: When clicking on message input `+`, `Embed` menu item should pop up somewhere below `Form` and `Poll`. It should have triple bars as the icon
+- Forum threads, replies, documents, comments, etc.: It should appear in the editor's toolbar next to form's icon (square with a checkmark). It should have triple bars as the icon
 
 ## Todo
 

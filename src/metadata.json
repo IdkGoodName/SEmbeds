@@ -1,0 +1,12 @@
+{
+    "id": "sembeds",
+    "name": "SEmbeds",
+    "files": "index.js",
+    "version": "1.0.0",
+    "requiredPermissions": 3,
+
+    "images": ["https://raw.githubusercontent.com/IdkGoodName/SEmbeds/master/assets/Screenshot-0.png", "https://raw.githubusercontent.com/IdkGoodName/SEmbeds/master/assets/Screenshot-1.png", "https://raw.githubusercontent.com/IdkGoodName/SEmbeds/master/assets/Screenshot-0.png"],
+    "banner": "https://raw.githubusercontent.com/IdkGoodName/SEmbeds/master/assets/Screenshot-0.png",
+    "repoUrl": "https://github.com/IdkGoodName/SEmbeds",
+    "author": "R40Mp0Wd"
+}

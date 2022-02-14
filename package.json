@@ -4,7 +4,10 @@
   "description": "Allows you to send custom embeds",
   "main": "index.js",
   "scripts": {
-    "build": "rollup -c rollup.config.js"
+    "rollup": "rollup -c rollup.config.js",
+    "package": "tar -czf SEmbeds-ReGuilded-0.0.4.tar.gz SEmbeds && zip -r SEmbeds-ReGuilded-0.0.4.zip SEmbeds",
+    "build": "cp ./src/index.js ./src/metadata.json ./src/README.md ./SEmbeds && npm run package",
+    "rebuild": "rm -r SEmbeds && mkdir SEmbeds && npm run build"
   },
   "repository": {
     "type": "git",

@@ -3,9 +3,9 @@ import commonjs from "@rollup/plugin-commonjs";
 
 /** @type {import("rollup").RollupOptions} */
 const options = {
-    input: "./index.js",
+    input: "./src/index.js",
     output: {
-        file: "./out/SEmbeds/index.js"
+        file: "./SEmbeds/index.js"
         //globals: path => (console.log("Path", path), `await require(${JSON.stringify(path)})`)
     },
     plugins: [
